@@ -1,0 +1,15 @@
+python-dotenv
+Pillow
+numpy
+spacy
+dateparser
+requests
+SpeechRecognition
+PyAudio
+pyttsx3
+psutil
+pygame
+wikipedia
+pvporcupine
+pycaw; sys_platform == "win32"
+comtypes; sys_platform == "win32"
